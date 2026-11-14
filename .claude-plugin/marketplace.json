@@ -1,0 +1,11 @@
+{
+  "name": "sketch-deferred",
+  "owner": { "name": "allen-hsu" },
+  "plugins": [
+    {
+      "name": "sketch",
+      "source": "./",
+      "description": "Claude draws diagrams, charts, roadmaps, journeys and wireframes as cards in the transcript instead of writing paragraphs"
+    }
+  ]
+}
